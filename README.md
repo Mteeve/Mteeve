@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on C functions 
+- 🔭 I’m currently working on C & Dart//Flutter Programming 
 - 🌱 I’m currently learning code from scratch 
 - 👯 I’m looking to collaborate on dart & Flutter projects
 - 🤔 I’m looking for help with C - Functions, nested loops
